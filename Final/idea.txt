@@ -1,0 +1,5 @@
+Idea
+You will be able to login and create users
+You will be able to view notes but not edit notes.
+This is so you can go back and think about your past notes
+
